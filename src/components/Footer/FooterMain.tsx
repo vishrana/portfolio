@@ -16,7 +16,7 @@ export default function FooterMain() {
         </div>
         <FooterContacts />
         <FooterSocial />
-        <FooterInfo />
+        {/* <FooterInfo /> */}
       </div>
     </div>
   )

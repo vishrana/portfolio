@@ -7,7 +7,7 @@ export interface ITotalExperience {
 type EndDateGenerator = () => Date
 
 export default class TotalExperience implements ITotalExperience {
-  private static readonly EXPERIENCE_START_DATE: Date = new Date(2010, 2, 1)
+  private static readonly EXPERIENCE_START_DATE: Date = new Date(2015, 6, 1)
 
   private readonly endDateGenerator: EndDateGenerator
 
