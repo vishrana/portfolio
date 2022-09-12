@@ -37,8 +37,8 @@ export function App(props: Props) {
       <EducationMain />
       <CertificatesMain />
       <LanguagesMain />
-      <PortfolioMain />
-      <Badges />
+      {/* <PortfolioMain /> */}
+      {/* <Badges /> */}
       <FooterMain />
     </div>
   )

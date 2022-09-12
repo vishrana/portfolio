@@ -1,7 +1,7 @@
 {
   "name": "business-card",
   "version": "2.8.1",
-  "description": "Yevhen Fabizhevskyi's personal website.",
+  "description": "Vishal Rana's personal website.",
   "homepage": "https://fabasoad.github.io/business-card/",
   "scripts": {
     "build:dev": "webpack --config webpack.dev.js",
@@ -21,7 +21,7 @@
     "url": "https://github.com/fabasoad/business-card.git"
   },
   "author": {
-    "name": "Yevhen Fabizhevskyi",
+    "name": "Vishal rana",
     "email": "fabasoad@gmail.com",
     "url": "https://github.com/fabasoad"
   },
